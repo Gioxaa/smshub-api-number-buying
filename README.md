@@ -36,7 +36,7 @@
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/smshub-number-buyer.git
+   git clone https://github.com/Gioxaa/smshub-number-buyer.git
    cd smshub-number-buyer
    ```
 
@@ -160,5 +160,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   **[Configuration](#️-configuration-options)** • 
   **[Contributing](#-contributing)**
   
-  <sub>Made with ❤️ by Gioxaa</sub>
+  <sub>Made with ❤️ by <a href="https://github.com/Gioxaa">Gioxaa</a></sub>
 </div>
