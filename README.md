@@ -9,10 +9,6 @@
 
 *A powerful CLI tool for purchasing and managing virtual phone numbers from SMSHub API, with real-time OTP reception.*
 
-<p align="center">
-  <img width="700" src="https://i.imgur.com/4DvHoNE.png" alt="Screenshot">
-</p>
-
 </div>
 
 ## ✨ Features
