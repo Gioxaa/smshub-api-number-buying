@@ -1,0 +1,17 @@
+# SMSHub API Configuration
+
+# API credentials
+api_key: ''
+
+# Service settings
+country_code: 73 # Country code (73 for Indonesia)
+service: 'am' # Service (am for Amazon)
+currency: 840 # Currency code (840 for USD)
+max_price: 0.0450 # Maximum price per number
+operator: '' # Mobile operator (empty for all)
+
+# API endpoint
+api_url: 'https://smshub.org/stubs/handler_api.php'
+
+# Application settings
+refresh_interval: 1500 # Refresh interval in milliseconds 

@@ -1,8 +1,26 @@
 {
+  "name": "smshub-number-buyer",
+  "version": "1.0.0",
+  "description": "A simple CLI application to purchase and manage virtual phone numbers from SMSHub API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sms",
+    "otp",
+    "smshub",
+    "virtual-number"
+  ],
+  "author": "",
+  "license": "MIT",
   "dependencies": {
-    "axios": "^1.7.7",
-    "clipboardy": "^4.0.0",
-    "node-notifier": "^10.0.1",
-    "play-sound": "^1.1.6"
+    "axios": "^1.6.2",
+    "chalk": "^4.1.2",
+    "js-yaml": "^4.1.0",
+    "ora": "^5.4.1",
+    "boxen": "^5.1.2",
+    "figlet": "^1.5.2"
   }
 }
